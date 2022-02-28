@@ -1,0 +1,19 @@
+segment_sources:
+  P71E9EC30:
+    type: origin_type
+    relation: translation
+    language: en
+  P341CA240:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  869cce973f8040389b8a7c0970c96963:
+    P71E9EC30: 9b8f2a18fe994a6eac7b13bf839a53b8
+    P341CA240: 95097512ada6432fa3d4582133ed9ca1
+  5214de147d57445dba53ab1b912680ef:
+    P71E9EC30: 43999e7cafe545ee90dc108802bfb820
+    P341CA240: 0ca4f9147a414eef9e72081c08937b80
+  b479d27a022f464b9ceb14e85f6fa3c9:
+    P71E9EC30: c7834fcf121b46848133531340e7dd16
+    P341CA240: e4136ae1187e49ff831e27802e310685
